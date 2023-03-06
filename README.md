@@ -17,6 +17,8 @@
 - ⛏ I like to challenge new technology and publish my work.
 - ⭐️ In the future, I would like to create a technical area that I am good at and become a technical specialist.
 
+[職務経歴書](Job/curriculumVitae.md)
+
 [![taro's github stats](https://github-readme-stats.vercel.app/api?username=h-taro&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/h-taro/)
 
 [![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h-taro&layout=compact&theme=tokyonight)](https://github.com/h-taro/)
